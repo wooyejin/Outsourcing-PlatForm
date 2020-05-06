@@ -1,0 +1,57 @@
+body{
+    text-align: center;
+}
+
+/* .logo{
+    margin-top: 50px;
+    margin-bottom: 20px;
+} */
+
+.title_input{
+    margin-bottom: 20px;
+    border: 1px solid #dedede;
+    border-radius: 5px;
+    min-width: 450px;
+    height: 30px;
+}
+
+
+.intro_content{
+    border: 1px solid #dedede;
+    border-radius: 5px;
+    min-width: 450px;
+    max-width: 450px;
+    min-height: 400px;
+    max-height: 400px;
+}
+
+.content1{
+    display: inline-block;
+}
+
+.content2{
+    display: inline-block;
+}
+
+.sub_btn{
+    margin-left: 20px
+}
+
+.submitButton{
+    background-color: #0f4c81;
+    color: white;
+    font-weight: bold;
+    border: none;
+    /* width: 90%; */
+    display: block;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100px;
+    height: 30px;
+    margin-top: 30px;
+}
+
+
+
+

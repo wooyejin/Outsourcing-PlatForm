@@ -1,0 +1,211 @@
+.full_sc{
+    margin-right: auto;
+    margin-left: auto;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+body{
+    text-align: center;
+}
+
+.logo{
+    text-align: center;
+    padding-top: 120px;
+}
+
+.full{
+    text-align: center;
+}
+
+.div_email{
+    margin-right: 150px;
+}
+.content{
+    float: none;
+    padding: 25px 0 20px;
+}
+
+.foundid{
+    position: relative;
+    padding: 39px 40px 20px;
+    border: none;
+    /* margin-right: 150px; */
+}
+
+.div_phone{
+    /* position: relative;
+    padding: 0 0 17px 19px; */
+    padding-bottom: 27px;
+}
+
+
+
+.id_phone{
+    font-size: 15px;
+    font-weight: 800;
+    line-height: 18px;
+    margin-left:-2px ; 
+}
+
+.box{
+    display: block;
+}
+.id_email{
+    font-size: 15px;
+    font-weight: 800;
+    line-height: 18px;
+    margin-left:-2px ;
+    padding-right: 120px;
+}
+
+.foundid_ment{
+    line-height: 18px;
+    padding-top: 4px;
+    color: #666666;
+    font-size: 0.7em;
+    margin-left: 120px;
+    margin-bottom: 40px;
+    margin-top: 10px;
+}
+
+dl{
+    padding-top: 14px;
+    margin-left: 600px;
+}
+.label_txt{
+    line-height: 25px;
+    float: left;
+    font-size: 13px;
+    margin-top: 1px;
+}
+
+.label_txt1{
+    line-height: 25px;
+    float: left;
+    font-size: 13px;
+    margin-top: 7px;
+}
+.info_name{
+    font-weight: 700;
+    float: left;
+    width:89px;
+    height: 25px;
+    margin-top: 6px;
+    font-size: 13px;
+}
+
+.info_name1{
+    position: relative;
+    float: left;
+    width: 48px;
+    height: 25px;
+    margin-top: 6px;
+    vertical-align:top;
+    margin-left: 65px;
+}
+
+ .info_phone,.info_email{
+    font-weight: 700;
+    float: left;
+    height: 25px;
+    margin-top: 6px;
+    margin: 0px;
+ }
+
+.info_phone1{
+    width: 400px;
+    height: 25px;
+    margin: 0px;
+    margin-top: 6px;
+}
+
+.info_email1{
+    padding-left: 48px;
+}
+
+.list{
+    height: 17px;
+}
+
+.phone_list{
+    display: inline-block;
+    overflow: hidden;
+    position: relative;
+    border:solid 1px #ccc;
+    vertical-align: top;
+    height: 27px;
+    margin-left: 30px;
+ }
+
+.found_userid{
+    line-height: 23px;
+    /* height: 23px; */
+    padding-left: 3px;
+    vertical-align: top;
+    border: 1px solid #cccc;
+    border-radius: 5px
+}
+
+.found_userid_num{
+    padding-left: 3px;
+    vertical-align: top;
+    border: 1px solid #cccc;
+    border-radius: 5px;
+    line-height: 23px;
+}
+
+.info_identify{
+    padding-left: 90px;
+    padding-top: 20px;
+    height: 100px;
+    width: 220px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+
+.info_id{
+    padding-left: 48px;
+}
+.line{
+    margin-top: 20px;
+    width: 500px;
+}
+
+.div_phone_info{
+    margin-left: 100px;
+    height: 100px;
+    width: 220px; margin: 0 auto;
+}
+
+.hrline{
+    margin-top: 20px;
+    width: 500px;
+}
+
+.sub_btn{
+    background-color: #0f4c81;
+    color: white;
+    font-weight: bold;
+    border: none;
+    width: 80px;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    height: 30px;
+}
+
+.sub_btn1{
+    background-color: #0f4c81;
+    color: white;
+    font-weight: bold;
+    border: none;
+    width: 80px;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    height: 30px;
+    /* float: left; */
+}

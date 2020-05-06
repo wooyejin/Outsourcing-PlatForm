@@ -1,0 +1,63 @@
+body{
+    background-color: #dcdcdc;
+}
+
+.logo{
+    text-align: center;
+  /*   padding-top: 170px;
+    padding-bottom: 50px; */
+    padding-top: 207px;
+    padding-bottom: 13px;
+}
+
+.Id_pwd_form{
+    text-align: center;
+}
+.Id_pwd_form2{
+    text-align: center;
+    
+}
+
+.login_form{
+    width: 360px;
+    height: 20px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    border: none;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 10px;
+}
+
+.sub_but{
+    text-align: center;
+    margin-bottom: 20px;
+    color: #0f4c81;
+}
+
+.line_form{
+    width: 450px;
+    border: bold;
+}
+
+.links{
+    text-align: center;
+    
+}
+
+.links a{
+    font-size: 12px;
+    color: #696969;
+}
+.submit_button{
+    background-color: #0f4c81;
+    color: white;
+    font-weight: bold;
+    border: none;
+    width: 90%;
+    display: block;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+}

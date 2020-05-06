@@ -1,0 +1,50 @@
+.full_sc{
+    margin-right: auto;
+    margin-left: auto;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+body{
+    text-align: center;
+}
+
+.logo{
+    text-align: center;
+    padding-top: 120px;
+}
+
+.foundid{
+    position: relative;
+    padding: 39px 400px 20px;
+    border: none;
+    /* margin-right: 150px; */
+}
+
+.div_idfound{
+    border: 3px solid #0f4c81;
+    /* max-width: 600px; */
+    height: 150px;
+}
+
+.title_ment{
+    font-size: 20px;
+    font-weight: 700;
+}
+.subtitle_ment{
+    font-size: 13px;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+.back{
+    margin-top: 30px;
+}
+
+.loginback,.pwdgo{
+    background-color: #0f4c81;
+    color: #fff;
+    padding: 6px;
+    border: none;
+    border-radius: 4px;
+}

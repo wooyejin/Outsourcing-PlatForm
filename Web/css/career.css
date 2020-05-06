@@ -1,0 +1,167 @@
+.content{
+    display: block;
+    width: 980px;
+}
+
+.content_inner{
+    padding-top: 16px;
+}
+
+.tech_content_title{
+    border-bottom: 1px dashed #dcdcdc;
+    margin-bottom: 20px;
+    height: auto;
+    display: block;
+}
+
+.content_title{
+    margin-bottom: 20px;
+    margin-top: 2px;
+    line-height: 1;
+    font-size: 24px;
+    font-weight: 700;
+    margin: 1em 0;
+    box-sizing: border-box;
+}
+
+section,form{
+    display: block;
+    box-sizing: border-box;
+}
+
+.table_career{
+    margin-top: 15px;
+    width: 100%;
+    position: relative;
+    margin-top: 10px;
+    border-top: 2px solid #dedede;
+    border-bottom: 1px solid #dedede;
+    max-width: 100%;
+}
+
+.table_career thead{
+    background-color: #f7f7f7;
+}
+
+.star{
+    color: tomato;
+}
+.table_width_companyName{
+    border-bottom: 1px solid #dedede;
+    padding: 7px;
+    line-height: 1.5;
+    text-align: center;
+    font-size: 15px;
+    border-right: 1px solid #dedede;
+    color: #555;
+    width: 250px
+}
+
+.table_width_field,.table_width_position,.table_width_career,.table_width_work,.table_width_delete{
+    border-bottom: 1px solid #dedede;
+    padding: 7px;
+    line-height: 1.5;
+    text-align: center;
+    font-size: 15px;
+    border-right: 1px solid #dedede;
+    color: #555
+}
+
+/* .table_width_sort{
+    min-width: 330px;
+} */
+
+.table_list_add1{
+    line-height: 30px;
+    vertical-align: top;
+    border-top: 1px solid #dedede;
+    min-width: 300px;
+    padding-left: 30px;
+}
+
+.table_list_add,.button_set{
+    line-height: 30px;
+    /* vertical-align: top; */
+    border-top: 1px solid #dedede;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    text-align: center;
+}
+.companyName_input{
+    width: 100px;
+    border:1px solid #dcdcdc;
+    border-radius: 5px;
+    height: 30px;
+    padding-left: 10px;
+    min-width: 250px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.field_input,.position_input,.career_input{
+    display: block;
+    width: 100%;
+    height: 32px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #555;
+    background-color: #fff;
+    border: 1px solid #dedede;
+    border-radius: 2px;
+    /* width: 170px; */
+}
+.work_input{
+    display: block;
+    width: 100%;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #555;
+    background-color: #fff;
+    border: 1px solid #dedede;
+    border-radius: 2px;
+}
+
+.experience_input{
+    display: block;
+    width: 100%;
+    height: 32px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.5;
+    columns: #555;
+    background-color: #fff;
+    border: 1px solid #dedede;
+    border-radius: 2px;
+}
+.btn_delete{
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 2px;
+    color: #fff;
+    background-color: #0f4c81;
+    border-color: #0f4c81;
+}
+
+.btn_plus,.submit_button,.btn_cancel{
+    color: #fff;
+    background-color: #0f4c81;
+    border-color:#0f4c81 ;
+    display: inline-block;
+    text-align: center;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.5;
+    border-radius: 2px;
+}
+
+ul{
+    list-style: none;
+    padding-inline-start: 0px
+}
+
+.btn{
+    text-align: right;
+}

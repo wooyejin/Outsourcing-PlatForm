@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//Web/board/board_write.jsp=UTF-8
+encoding//src/config/Admin_query.properties=UTF-8
+encoding//src/config/Ads_query.properties=UTF-8
+encoding//src/config/Company_query.properties=UTF-8
+encoding//src/config/Eye_query.properties=UTF-8
+encoding//src/config/Member_query.properties=UTF-8
+encoding//src/config/Notice_query.properties=UTF-8
+encoding//src/config/Portfolio_query.properties=UTF-8
+encoding//src/config/Project_query.properties=UTF-8
+encoding//src/config/Qna_query.properties=UTF-8
+encoding//src/config/board-query.properties=UTF-8
+encoding//src/config/comment-query.properties=UTF-8
+encoding//src/config/developer-query.properties=UTF-8
+encoding//src/config/member-query.properties=UTF-8
+encoding//src/config/notice-query.properties=UTF-8
+encoding//src/win/model/vo/Notice.java=UTF-8

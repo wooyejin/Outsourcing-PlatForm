@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+.logo{
+    margin-top:50px;
+    text-align: center;
+    padding-left: 18px;s
+}
+.content_question1,.content_question2,.content_question1_1{
+    padding-left: 30px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+
+}
+.response{
+    border: 1px solid #dcdcdc;
+    border-radius: 5px;
+    height: 30px;
+    width: 300px;
+}
+.btn_submit{
+    margin-top: 30px;
+    border:none;
+    background: #0f4c81;
+    width: 60px;
+    height: 40px;
+    border-radius: 5px;
+    color: #fff;
+}

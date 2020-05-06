@@ -1,0 +1,534 @@
+.div{
+    display: block
+}
+.page_project{
+    padding: 30px 0;
+    margin-left: 30px;
+} 
+.pro_container{
+    width: 1080px;
+    /* margin: 0 auto; */
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.project_signup{
+    padding: 6px 20px;
+    border-bottom: 1px solid #000;
+    text-align: left;
+}
+
+.project_signup h2{
+    margin-bottom: 30px;
+    font-size: 30px;
+    color:#000;
+}
+.projectdiv{
+    margin-left: 60px;
+}
+
+
+
+
+.star{
+    color: #ff6b21;
+    font-weight: bold;
+}
+
+.projectway{
+    display: block;
+    margin-bottom: 45px;
+}
+
+.project_title{
+    margin-bottom: 5px;
+    display: block;
+}
+
+.project_explain{
+    margin-bottom: 25px;
+    font-size: 0.8em;
+}
+
+.project_form_1{
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    width: 230px;
+    margin-right: 20px;
+    /* float: left; */
+    display: inline-block;
+    cursor: pointer;
+    background-color: #fff;
+    
+}
+
+.project_form_1_content{
+    border-radius: 50%;
+    display: none;
+    position: absolute;
+    left: 16px;
+    top:16px;
+}
+
+.input_replace{
+    background: url(images/radiobutton.png);
+}
+
+.select_card1{
+    text-align: center;
+    color: #212121;
+}
+
+.select_card_ment1{
+    font-weight:500;
+}
+
+.select_card_ment2{
+    font-size: 12px;
+    line-height: 17px;
+    font-weight: 400;
+}
+
+.project_form_2{
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    width: 230px;
+    margin-right: 20px;
+    cursor: pointer;
+    background-color: #fff;
+    /* float: left; */
+    display: inline-block;
+
+}
+
+.project_form_2_content{
+    border-radius: 50%;
+    display: none;
+    position: absolute;
+    left: 16px;
+    top:16px;
+}
+
+.card_image{
+    text-align: center;
+}
+
+.cardimg{
+    display: inline-block;
+    margin-bottom: 8px;
+    text-align: center;
+    width: 70px;
+    height: 70px;
+}
+
+.select_card2{
+    text-align: center;
+    color: #212121;
+}
+
+.select_card_ment3{
+    font-weight:500;
+}
+
+.select_card_ment4{
+    font-size: 12px;
+    line-height: 17px;
+    font-weight: 400;
+}
+
+.projectgroup{
+    display: block;
+}
+
+.project_title{
+    margin-top: 48px;
+    margin-bottom: 5px;
+    display: block;
+    font-weight: 700;
+}
+
+/* .project_title1{
+    margin-top: 300px;
+    margin-bottom: 5px;
+    display: inline-block;
+    font-weight: 700;
+} */
+
+.pro_group{
+    margin-top: 12px;
+}
+
+.group_radio{
+    list-style: none;
+    padding-inline-start: 0px;
+}
+
+.group_radio_1{
+    margin: 0 0 12px 0;
+    line-height: 0;
+}
+
+.group_radio_2{
+    margin: 0
+}
+
+.radio-client{
+    padding: 0;
+    color: rgba(0,0,0,0.65);
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+}
+
+.projectName{
+    display:block;
+    margin-bottom:48px;
+    margin-top: 48px;
+}
+
+.project_title{
+    margin-bottom: 5px;
+    display: block;
+}
+
+.pro_name_content{
+    margin-top: 12px;
+}
+
+.pro_Name_String_input{
+    border-radius: 4px;
+    display: block;
+    padding: 8px 12px;
+    box-sizing: border-box;
+    width:60%;
+    color: #616161;
+    border: 1px solid #e0e0e0;
+    background-color: #fff;
+}
+
+.String_detail{
+    position: relative;
+    margin-top: 7px;
+}
+
+.String_detail_content{
+    margin-left: 4px;
+    font-size: 0.8em;
+}
+
+.projectCategory{
+    display: block;
+    margin-top: 50px;
+}
+
+.category{
+    width: 230px;
+    margin-right: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: #fff;
+    padding: 24px 0;
+    display: inline-block;
+    
+}
+
+.select_category_image{
+    text-align: center;
+    color: #212121;
+}
+
+.select_img{
+    display: inline-block;
+    margin-bottom: 8px;
+    text-align: center;
+    width: 60px;
+    height: 60px;
+}
+
+.category_detail{
+    margin-top: 30px;
+}
+
+.category_detail_list{
+    margin-bottom: 5px;
+    display: block;
+}
+
+.subcategory_list{
+    margin-top: 12px;
+}
+
+.subcategory_choice{
+    position: relative;
+    user-select:none;
+    margin: 4px 4px 8px 4px;
+    display: inline-block;
+}
+
+
+#choicesub{
+    display: none;
+}
+.subcategory_ch{
+    box-sizing: border-box;
+    padding: 0;
+    display: none;
+}
+
+.cata{
+    border-radius: 1rem;
+    padding: 4px 16px;
+    background: #eeeeee;
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    color: #616161;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.project_content_detail{
+    margin-top: 40px;
+    display: block;
+}
+
+.content_detail{
+    margin-bottom: 4px;
+    display: block;
+}
+
+.project_datail_list{
+    margin-top: 7px;
+    margin-bottom: 24px;
+}
+
+.ment_list{
+    position: relative;
+    margin-bottom: 4px;
+}
+
+.detail_img{
+    position: absolute;
+    top:5px;
+    left: 0;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+}
+
+.check_list{
+    margin-left: 20px;
+}
+
+.project_detail_textarea{
+    width: 52px;
+    min-width: 52%;
+    max-width: 52%;
+}
+
+.String_detail_ment{
+    position: relative;
+    margin-top: 8px;
+}
+
+.detail_ment{
+    margin-left: 13px;
+    font-size: 0.8em;
+}
+
+.count_detail_ment{
+    /* position: absolute;
+    right: 13px; */
+    top: 0;
+    text-align: center;
+    font-size: 13px;
+    line-height: 20px;
+    font-size: 400;
+}
+
+.projectmoney{
+    display: block;
+    margin-bottom:40px;
+}
+ 
+.project_title{
+    margin-bottom: 4px;
+    display: block;
+}
+
+.projectmoney_ment{
+    margin-bottom: 24px;
+    font-size: 0.8rem;
+    line-height: 24px;
+    font-weight: 400;
+}
+
+.custom_choice_year{
+    width: 240px;
+    height: 40px;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    float: left;
+    margin-right: 20px;
+}
+
+.client_input{
+    width: 70px;
+    height: 35px;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    float: left;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.count{
+    float: left;
+    margin-right: 20px;
+    margin-top: 7px;
+    padding-left: 5px;
+}
+
+.client_month_money{
+    width: 140px;
+    height: 35px;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    text-align: center;
+}
+.checkclient{
+    display: block;
+    margin-right: 700px;
+    margin-top: 10px;
+}
+
+.money_noticement{
+    font-size: 0.8rem;
+}
+
+.start_Date_div{
+    display: block;
+    margin-bottom: 40px;
+}
+
+.start_date{
+    margin-bottom: 5px;
+    display: block;
+    font-weight: 700;
+}
+
+.start_date_mentent{
+    font-size: 0.8rem;
+    line-height: 24px;
+    font-weight: 400;
+}
+
+.client_input_start{
+    width: 240px;
+    height: 30px;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.Date_notice_ment{
+    font-size: 0.8rem;
+}
+
+.project_date_ing{
+    margin-bottom: 5px;
+    display: block;
+    font-weight: 700;
+}
+
+.date_ing_ment{
+    margin-bottom: 0px;
+    font-size: 0.8rem;
+    line-height: 24px;
+    font-weight: 400;
+}
+
+.choice_project_Ling{
+    padding-left: 0px;
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.cpLing{
+    list-style: none;
+    padding-inline-start: 0px;
+}
+
+.input_ing{
+    display: inline-block;
+    font-size: 15px;
+    margin: 0;
+    padding: 7px;
+    border: 0;
+    font: inherit;
+    padding-bottom: 5px;
+}
+
+.choice_project_Ring{
+    padding-left: 0px;
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding-bottom: 10px;
+    padding-top:10px;
+    box-sizing: border-box;
+    margin-bottom: 50px;
+
+}
+
+.project_notice_deadline{
+    margin-bottom: 48px;
+}
+
+.project_deadline{
+    margin-bottom: 5px;
+    display: block;
+    font-weight: 700;
+}
+.date_deadline_ment{
+    margin-bottom: 24px;
+    font-size: 0.8rem;
+    font-weight:400;
+    line-height:24px;
+}
+
+.date_deadine{
+    width: 240px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #e0e0e0;
+    /* background: url(../images/calendar.png) 3px no-repeat;
+    background-size: contain;
+    padding-left: 50px; */
+}
+.button{
+    margin-top: 80px;
+    margin-bottom: 90px;
+    text-align: center;
+}
+
+.button_style{
+    background-color: #0f4c81;
+    color: white;
+    font-weight: bold;
+    border: none;
+    width: 10%;
+    display: block;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 50px;
+    width: 300px;
+}
+
+.calendar{
+    width: 30px;
+    height: 30px;
+}

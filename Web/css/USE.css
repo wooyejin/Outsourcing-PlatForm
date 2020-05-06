@@ -1,0 +1,22 @@
+body{
+    background-color: #dcdcdc;
+}
+
+.use{
+    text-align: center;
+    font-size: 20px;
+}
+
+.content{
+  padding: 50px 50px;  
+}
+
+.uselist{
+    white-space:pre-wrap;
+}
+.hrclass{
+    border: 1px solid #778899;
+    margin:  0 2px 6px 2px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}

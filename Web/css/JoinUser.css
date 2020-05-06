@@ -1,0 +1,253 @@
+body{
+    background-color: #dcdcdc;
+    width: auto;
+    margin: 0 auto;
+    max-width: 768px;
+    min-width: 460px;
+
+}
+
+.logo{ /* win win*/
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.form_group,.form_group1{
+    margin-bottom: 10px;
+    text-align: -webkit-center;
+    margin-right:120px ;
+    
+    /* margin: 0 0 30 0; */
+}
+
+.form_group1{/* 이용목적 폼*/
+    /* margin-bottom: 10px; */
+    /* margin: 0 0 30 0; */
+    /* float: left; */
+    text-align: center;
+}
+
+
+.control_label{/* 이용목적 , 로그인, 아이디, 비밀번호 , 비밀번호 확인 목록 */
+    display: inline-block;
+    width: 7em; 
+    /* margin-top: 0px; */
+    /* margin-bottom: 0px; */
+    padding-top: 7px;
+    text-align: left;
+}
+
+.email-label{
+    /* width:200px; */
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.requird_form{
+    width: 310px;
+    margin: 2px;
+    padding: 8px;
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+}
+
+
+.form_group_caption_text{
+    font-size: 0.75em;
+    color: indianred;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    padding: 6px;
+    margin-right: 1.7em;
+}
+.form_pwd_caption_text{
+    font-size: 0.75em;
+    color: indianred;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    padding: 6px;
+    margin-left: 5em;
+}
+.form_pwd1_caption_text{
+    font-size: 0.75em;
+    color: indianred;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    padding: 6px;
+    margin-right: 1.8em;
+}
+
+
+.terms_form1{
+    /* margin-left: 120px; */
+    padding-bottom: 10px;
+    font-size: 0.85em;
+    text-align: center;
+    /* margin-right: 30px; */
+    padding-right: 40px;
+    /* padding-right: 130px; input 끝에 맞춤 */
+}
+
+.terms_form2{
+    margin-left: 4.2em;
+    font-size: 0.85em;
+    text-align: center;
+    /* margin-right: 30px */
+    padding-right: 40px; 
+    /* padding-right: 210px;  input 끝에 맞춤*/
+}
+
+.button{
+    /* width: 300px; */
+    /* height: 100px; */
+    /* margin: 5px; */
+    /* padding: 5px; */
+    /* padding-left: 650px; */
+    text-align: center;
+
+}
+
+.signup_list_element{ /* 이용목적 개발자 & 기업*/
+    margin-right: 10px;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 5%;
+}
+
+.signup_list_label{/* 이용목적 개발자 & 기업 */
+    width: 150px;
+    height: 220px;
+    display: inline-block;
+    padding: 15px 0 12px 0;
+    margin-bottom: 0;   
+    border: 1px dashed black;
+    text-align: center;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.signup_list_text{
+    margin-top: 5px;
+    margin-bottom: 20px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #778899;
+    line-height: 1;
+}
+
+.signup_list_element_img{/* 이용목적 - 기업*/
+    background-image: url("../images/paper.png");
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-size: 50px 50px;
+    margin-bottom: 3px;
+    box-sizing: border-box;
+    text-align: center;
+    
+}
+
+
+.signup_list_element_radio{
+    margin-bottom: 5px;
+    line-height: 1;
+}
+
+.signup_list_element_who{
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-bottom: 7px;
+}
+
+.signup_list_who{
+    font-weight: bold;
+    font-size: 13px;
+    color: #778899;
+    line-height: 13px;
+    padding-top: 1px;
+}
+
+.signup_list_hr{
+    border: 1px solid #778899;
+    margin:  0 2px 6px 2px;
+}
+
+.signup_list_explain{
+    margin-bottom: 0;
+    font-size: 12px;
+    line-height: 16px;
+    color: #778899;
+    font-weight: normal;
+}
+
+.singup_form{
+    /* width: 410px; */
+    /* margin-left: 10px; */
+    /* margin-right: 10px; */
+    /* padding-bottom: 20px; */
+}
+.signup_list{ /* 이용목적 기업 & 개발자  */
+    /* padding:0; */
+    /* margin-top: 0; */
+    /* margin: 1em 0; */
+    /* float: left; */
+    
+}
+
+.signup_form{/* 이용목적 크기 */
+    /* top: 50%; */
+    /* left: 50%; */
+    /* height: 280px; */
+    display: inline-block;
+
+}
+.signup_list_element_img1{ /* 이용목적 - 개발자 */
+    background-image: url("../images/search.png");
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-size: 50px 50px;
+    /* margin-bottom: 3px; */
+    box-sizing: border-box;
+    text-align: center;
+    
+}
+
+.star{
+    color: #CD5c5c;
+    margin: 1px;
+}
+
+.sign_form{
+    text-align: center;
+    margin: 0 auto;
+    width: auto;
+}
+
+.signup_form1{
+    display: inline-block;
+}
+
+.signup_list_1{
+    float: left;
+}
+
+.signup_list_2{
+    float: left;
+}
+.list_form{
+    display: inline;
+}
+.formstyle{
+    display: center;
+}
+
+.input_field{
+    background-color: #0f4c81;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}

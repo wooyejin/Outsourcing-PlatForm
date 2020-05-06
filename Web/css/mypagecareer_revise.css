@@ -1,0 +1,321 @@
+div{
+    display: block;
+}
+.sidebar{
+    display: inline;
+    float: left;
+    margin-left: 200px;
+    margin-right: 10px;
+    width: 250px;
+
+}
+
+.developer_name_tag{
+    width: 250px;
+    padding: 15px 15px 20px;
+    background-color: #ffffff;
+    border: solid 1px #dcdcdc;
+    border-bottom-width: 2px;
+    border-radius: 2px;
+    margin-top: 30px;
+}
+
+.developer_heading{
+    margin: 0 auto 9px;
+    padding-left: 3px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #dcdcdc;
+    text-align: left;
+    font-size: 15px;
+    color: #454545;
+    line-height: 20px;
+}
+
+.developer_body_img{
+    margin-top: 17px;
+    padding-left: 0px;
+}
+
+.developer_img_con{
+    width: 220px;
+    height: 220px;
+}
+
+.developer_img{
+    width: 218px;
+    height: 218px;
+    padding-left: 10px;
+}
+
+.userid{
+    margin-top: 0px;
+    text-align: center;
+}
+
+.sidebar_bot{
+    list-style: none;
+    border: 1px solid #dcdcdc;
+    border-radius: 3px;
+    border-bottom-width: 2px;
+    padding: 4px 8px;
+    background-color: #ffffff;
+    width: 265px;
+}
+
+.sidebar_list{
+    text-align: center;
+    height: 20px;
+    padding: 4px 0;
+}
+
+.sidebar_info{
+    border-radius: 2px;
+    padding: 10px 15px;
+    font-size: 15px;
+    width: 100%;
+    text-decoration: none;
+    color: black;
+}
+
+.content_inner{
+    padding-top: 15px;
+
+}
+section{
+    display: block;
+}
+
+.write_main{
+    float: left;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+.write_title_div{
+    width: 900px;
+    height: 100px;
+    border: 1px solid #dcdcdc;
+    border-radius: 3px;
+}
+
+.write_title_text{
+    padding: 20px;
+}
+
+.mypCotent{
+    border: 1px solid #dcdcdc;
+    border-radius: 3px;
+    margin-top: 10px;
+    margin-bottom: 300px;
+}
+
+
+
+.input_btn,.cancel_btn{
+    background-color: #0f4c81;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+}
+
+
+
+
+.tech_content_title{
+    border-bottom: 1px dashed #dcdcdc;
+    margin-bottom: 20px;
+    height: auto;
+    display: block;
+}
+
+.content_title{
+    margin-bottom: 20px;
+    margin-top: 2px;
+    line-height: 1;
+    font-size: 15px;
+    font-weight: 700;
+    margin: 1em 0;
+    box-sizing: border-box;
+}
+
+section,form{
+    display: block;
+    box-sizing: border-box;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.table_career{
+    margin-top: 15px;
+    width: 100%;
+    position: relative;
+    margin-top: 10px;
+    border-top: 2px solid #dedede;
+    border-bottom: 1px solid #dedede;
+    max-width: 100%;
+}
+
+.table_career thead{
+    background-color: #f7f7f7;
+}
+
+.star{
+    color: tomato;
+}
+.table_width_companyName{
+    border-bottom: 1px solid #dedede;
+    padding: 7px;
+    line-height: 1.5;
+    text-align: center;
+    font-size: 15px;
+    border-right: 1px solid #dedede;
+    color: #555;
+    width: 250px
+}
+
+.table_width_field,.table_width_position,.table_width_career,.table_width_work,.table_width_delete{
+    border-bottom: 1px solid #dedede;
+    padding: 7px;
+    line-height: 1.5;
+    text-align: center;
+    font-size: 15px;
+    border-right: 1px solid #dedede;
+    color: #555
+}
+
+
+.table_list_add1{
+    line-height: 30px;
+    vertical-align: top;
+    border-top: 1px solid #dedede;
+    min-width: 300px;
+    padding-left: 30px;
+}
+
+.table_list_add,.button_set{
+    line-height: 30px;
+    border-top: 1px solid #dedede;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    text-align: center;
+}
+
+.companyName_input{
+    width: 100px;
+    border:1px solid #dcdcdc;
+    border-radius: 5px;
+    height: 30px;
+    padding-left: 10px;
+    min-width: 250px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.field_input,.position_input,.career_input{
+    display: block;
+    width: 100%;
+    height: 32px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #555;
+    background-color: #fff;
+    border: 1px solid #dedede;
+    border-radius: 2px;
+    /* width: 170px; */
+}
+.work_input{
+    display: block;
+    width: 100%;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #555;
+    background-color: #fff;
+    border: 1px solid #dedede;
+    border-radius: 2px;
+}
+
+.experience_input{
+    display: block;
+    width: 100%;
+    height: 32px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.5;
+    columns: #555;
+    background-color: #fff;
+    border: 1px solid #dedede;
+    border-radius: 2px;
+}
+.btn_delete{
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 2px;
+    color: #fff;
+    background-color: #0f4c81;
+    border-color: #0f4c81;
+    border: none;
+}
+/*삭제 비활성화 버튼 색상 */
+.btn_delete1{
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 2px;
+    color: #fff;
+    background-color: lightslategrey;
+    border-color: lightslategrey;
+    border: none;
+}
+
+.btn_plus,.submit_button,.btn_cancel{
+    color: #fff;
+    background-color: #0f4c81;
+    border-color:#0f4c81 ;
+    display: inline-block;
+    text-align: center;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.5;
+    border-radius: 2px;
+    border:none;
+}
+
+ul{
+    list-style: none;
+    padding-inline-start: 0px
+}
+
+.btn{
+    text-align: right;
+}
+
+.mypage_back{
+    float: right;
+    text-align: right;
+}
+.mypage_img{
+    width: 20px;
+    height: 20px;
+}
+.content_ment{
+    font-size: 0.7rem;
+    margin-top: 20px;
+}
+.submitbutton,.btncancel{
+    text-decoration: none;
+    color: #fff;
+}
+
+.main_img{
+    width: 20px;
+    height: 20px;
+    float: right;
+    padding-left: 5px;
+    padding-top: 2px;
+}

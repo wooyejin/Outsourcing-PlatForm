@@ -1,0 +1,102 @@
+body{
+    background: rgb(245, 245, 245);
+}
+.section_Info{
+    float: left;
+    position: relative;
+    width: 400px;
+    margin-bottom: 16px;
+    margin-top: 100px;
+}
+
+.Info_image{
+    background-color: #fff;
+    width: 300px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+
+
+.user_name{
+    /* margin-top: 10px; */
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 0.9em;
+    color: #0f4c81;
+}
+
+.care{
+    text-align: center;
+    margin-top: 30px;
+}
+.myP_Info{
+    padding: 32px 40px 0;
+}
+
+.img_profile{
+    width: 100px;
+    height: 100px;
+
+    margin-left: 100px;
+}
+
+.info_change, .image_change ,.portfolio_chage{ 
+    display: inline-block; 
+    padding: .5em .75em; 
+    color: #999; 
+    font-size: 0.7em; 
+    line-height: normal; 
+    vertical-align: middle; 
+    background-color: #fdfdfd; 
+    cursor: pointer; 
+    border: 1px solid #ebebeb; 
+    border-bottom-color: #e2e2e2; 
+    border-radius: .25em; 
+    text-decoration: none;
+}
+
+#info_change, #image_change,#file_up{ 
+    /* 파일 필드 숨기기 */ 
+    position: absolute; 
+    width: 1px; 
+    height: 1px; 
+    padding: 0; 
+    margin: -1px; 
+    overflow: hidden; 
+    clip:rect(0,0,0,0); 
+    border: 0; 
+}
+
+.User_Info{
+    float: left;
+
+}
+
+.Info_ment_detail{
+    width: 300px;
+    min-width: 100%;
+    max-width: 100%;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+.file_up{
+    display: inline-block;
+    padding: .5em .75em; 
+    color: black; 
+    font-size: 0.7em;
+    background-color: #fdfdfd; 
+    border: 1px solid #ebebeb; 
+    border-bottom-color: #e2e2e2; 
+    border-radius: .25em; 
+    text-decoration: none;
+}
+
+.box_port{
+    width: 800px;
+    height: 250px;
+    background: cornsilk;
+    border: 1px solid black;
+    margin-top: 40px;
+}
